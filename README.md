@@ -6,7 +6,7 @@ This project focuses on analyzing sales performance and customer behavior using 
 The objective was to transform raw sales data into interactive dashboards that help stakeholders understand key business metrics and trends.
 
 <img width="1199" height="799" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/85ecd062-3ccd-4729-a631-5ad69b18449e" />
-<img width="1199" height="799" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/06517d2c-fc84-400c-a77f-5fcf813b65ca" />
+<img width="1199" height="799" alt="Customer Dashboard (1)" src="https://github.com/user-attachments/assets/ffc6f7fc-52f9-430b-b504-6de3a1ddf868" />
 
 ## Dashboards Created
 
