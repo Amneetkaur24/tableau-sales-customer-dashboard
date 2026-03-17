@@ -5,6 +5,9 @@ This project focuses on analyzing sales performance and customer behavior using 
 
 The objective was to transform raw sales data into interactive dashboards that help stakeholders understand key business metrics and trends.
 
+<img width="1199" height="799" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/85ecd062-3ccd-4729-a631-5ad69b18449e" />
+<img width="1199" height="799" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/06517d2c-fc84-400c-a77f-5fcf813b65ca" />
+
 ## Dashboards Created
 
 ### 1. Sales Performance Dashboard
@@ -36,6 +39,7 @@ Key features:
 - A small group of customers contributes a significant portion of total profit.
 - Weekly trend analysis helps identify performance fluctuations during the year.
 
+ ### These insights help sales teams identify profitable product segments, track customer contribution to revenue, and monitor sales performance trends to support strategic planning.
 ## Dashboard Link
 Interactive dashboard available here:
 https://public.tableau.com/app/profile/amneet.kaur2844
