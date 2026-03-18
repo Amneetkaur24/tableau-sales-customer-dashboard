@@ -47,21 +47,27 @@ Interactive dashboard available here:
 https://public.tableau.com/app/profile/amneet.kaur2844
 
 ## Structure
-sales-customer-performance-analytics
+```
+sales-and-customer-behavior-analytics
 │
-├── data
-
-├── dashboard
-
-│   └── sales_dashboard.twbx
-
+├── dashboards
+│   └── Sales and Customer Dashboard.twbx
+│
+├── dataset
+│   ├── Customers.csv
+│   ├── Location.csv
+│   ├── Orders.csv
+│   └── Products.csv
+│
 ├── images
-
-│   └── dashboard_preview.png
-
-├── insights.md
-
+│   ├── Customer Dashboard (1).png
+│   └── Sales Dashboard.png
+│
+├── insights
+│   └── key_findings.md
+│
 └── README.md
+```
 
 ## Author
 Amneet Kaur
